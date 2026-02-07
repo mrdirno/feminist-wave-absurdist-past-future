@@ -1,0 +1,160 @@
+{
+  "book_id": "feminist_wave_absurdist_past_future",
+  "title": "The Receipt of Unremembered Things",
+  "tagline": "After the world politely ended, one woman must return her past to claim her future.",
+  "target_words": 70000,
+  "actual_words": 79437,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Bureaucracy of Collapse",
+    "Feminist Reclamation of Narrative",
+    "Absurdism as Survival Logic",
+    "The Archaeology of the Immediate Past"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Return",
+      "words": 3500
+    },
+    {
+      "ch": 2,
+      "title": "The Dead Letter Office",
+      "words": 3300
+    },
+    {
+      "ch": 3,
+      "title": "The Historian's Coffee",
+      "words": 3200
+    },
+    {
+      "ch": 4,
+      "title": "The Protocol of Forgetting",
+      "words": 3100
+    },
+    {
+      "ch": 5,
+      "title": "The Archive of Failed Systems",
+      "words": 3400
+    },
+    {
+      "ch": 6,
+      "title": "The Council of Crows",
+      "words": 3600
+    },
+    {
+      "ch": 7,
+      "title": "The Department of Unfinished Business",
+      "words": 3300
+    },
+    {
+      "ch": 8,
+      "title": "The Aesthetics of Morose",
+      "words": 3100
+    },
+    {
+      "ch": 9,
+      "title": "The Before-Name",
+      "words": 3400
+    },
+    {
+      "ch": 10,
+      "title": "The Store Credit of Clarity",
+      "words": 3200
+    },
+    {
+      "ch": 11,
+      "title": "The Participating Vendor",
+      "words": 3500
+    },
+    {
+      "ch": 12,
+      "title": "The Final Sale",
+      "words": 3700
+    },
+    {
+      "ch": 13,
+      "title": "The Ghost of a Laugh",
+      "words": 3000
+    },
+    {
+      "ch": 14,
+      "title": "The Unmediated Moment",
+      "words": 3400
+    },
+    {
+      "ch": 15,
+      "title": "The Pattern in the Soft Rules",
+      "words": 3600
+    },
+    {
+      "ch": 16,
+      "title": "The Ozone of Potential",
+      "words": 3200
+    },
+    {
+      "ch": 17,
+      "title": "The Liberty Street Accord",
+      "words": 3800
+    },
+    {
+      "ch": 18,
+      "title": "The Kohlrabi Manifesto",
+      "words": 3100
+    },
+    {
+      "ch": 19,
+      "title": "The Taxonomy of Dissatisfaction",
+      "words": 3500
+    },
+    {
+      "ch": 20,
+      "title": "The Receipt as Artifact",
+      "words": 3300
+    },
+    {
+      "ch": 21,
+      "title": "The Exchange",
+      "words": 3700
+    },
+    {
+      "ch": 22,
+      "title": "The After-Person's Guide",
+      "words": 3400
+    },
+    {
+      "ch": 23,
+      "title": "The Cherub's Sweater",
+      "words": 3100
+    },
+    {
+      "ch": 24,
+      "title": "The New Absurd",
+      "words": 3900
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character tries to use a pre-apocalypse coupon or loyalty card in the new absurd economy.",
+      "Create a 'Department of Forgotten Protocols' field manual entry for a mundane social rule (e.g., 'Queueing for the Bus').",
+      "Draft a 'Customer Satisfaction Survey' found by a character, asking for feedback on the apocalypse event itself.",
+      "Write a monologue from the perspective of a non-human entity (like the crows in the legislative chamber) observing the new human behaviors."
+    ],
+    "technical": [
+      "Build a 'Receipt Generator' that creates absurd store credit slips for intangible concepts (e.g., 'One Slightly Used Hope', '15 Minutes of Unwarranted Confidence').",
+      "Design a database schema for the 'Dead Letter Office' cataloging undeliverable mail by emotional content and failure reason."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Margaret Atwood",
+      "Franz Kafka",
+      "Ursula K. Le Guin",
+      "Kurt Vonnegut"
+    ]
+  },
+  "cover_prompt": "A woman in practical, slightly worn clothing stands resolute in a cavernous, abandoned government archive, meticulously placing a faded, personal photograph into a towering, labyrinthine filing cabinet that stretches into dusty infinity, under the sickly glow of flickering fluorescent lights. The scene is one of surreal order amidst decay, with endless aisles of identical cabinets, scattered papers forming small dunes on the linoleum floor, and a single forgotten potted plant thriving absurdly on a desk. In the atmospheric style of Remedios Varo and Edward Hopper, blending magical realism with stark, lonely realism and meticulous detail. Book cover framing, centered composition with a slightly low, dramatic angle looking up at the towering cabinets to emphasize scale and oppression, a single shaft of weak daylight slicing through high, grimy windows. Chiaroscuro lighting with pools of harsh fluorescent light and deep shadows, a color palette of institutional greens, muted beiges, archival grey, and the warm, anomalous sepia of the photograph. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
